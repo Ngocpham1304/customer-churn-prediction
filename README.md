@@ -21,5 +21,5 @@ This project involves improvements in data preprocessing and enhance Artificial 
 <img width="666" height="393" alt="image" src="https://github.com/user-attachments/assets/d2944664-ea3e-4b97-bc7f-e689316e74d9" />
 
 5. Choose **Run all** to run the project.
-<img width="645" height="395" alt="image" src="https://github.com/user-attachments/assets/98bcb918-da9f-433c-a03a-57b2533f660e" />
+<img width="640" height="386" alt="image" src="https://github.com/user-attachments/assets/f71e717e-f03d-4417-bc77-fbf8e95d7037" />
 
