@@ -13,13 +13,13 @@ This project involves improvements in data preprocessing and enhance Artificial 
 
 ## Step to run the project
 1. Open Google Colab at https://colab.research.google.com/.
-2. On **Open Notebook** window, choose **Github** and fill in the Project's Github link (https://github.com/Ngocpham1304/customer-churn-prediction), then choose path **code/churn_ann_clean_submission.ipynb**
+2. On **Open Notebook** window, choose **Github** and fill in the Project's Github link (https://github.com/Ngocpham1304/customer-churn-prediction), then choose path **code/churn_ann_clean_submission.ipynb**.
 <img width="986" height="760" alt="image" src="https://github.com/user-attachments/assets/b7ff3e70-5980-4c77-b99f-cc5df58294f9" />
 
-3. Download dataset from the Project's Github link (in folder **data/** https://github.com/Ngocpham1304/customer-churn-prediction/blob/main/data/Churn_Modelling.csv)
-4. Upload dataset to Google Colab
+3. Download dataset from the Project's Github link (in folder **data/** https://github.com/Ngocpham1304/customer-churn-prediction/blob/main/data/Churn_Modelling.csv).
+4. Upload dataset to Google Colab.
 <img width="666" height="393" alt="image" src="https://github.com/user-attachments/assets/d2944664-ea3e-4b97-bc7f-e689316e74d9" />
 
-5. Choose **Run all** to run the project
+5. Choose **Run all** to run the project.
 <img width="645" height="395" alt="image" src="https://github.com/user-attachments/assets/98bcb918-da9f-433c-a03a-57b2533f660e" />
 
