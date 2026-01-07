@@ -23,3 +23,15 @@ This project involves improvements in data preprocessing and enhance Artificial 
 5. Choose **Run all** to run the project.
 <img width="640" height="386" alt="image" src="https://github.com/user-attachments/assets/f71e717e-f03d-4417-bc77-fbf8e95d7037" />
 
+## Result Summary
+<img width="705" height="184" alt="image" src="https://github.com/user-attachments/assets/c7901790-75b2-4ef8-b5cd-ee9a89466278" />
+
+- **Accuracy**
+  - Only +1–2% improvement
+  - Expected due to class imbalance
+- **ROC-AUC**
+  - Stronger ranking ability
+  - Better separation between churners and non-churners
+- **Recall**
+  - +20% or more
+  - Much better churn detection
